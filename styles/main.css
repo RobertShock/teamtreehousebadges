@@ -2,15 +2,24 @@ body {
 	background-color: black;
 }
 
+h1 {font-size: 60px;
+	font-style: italic;
+}
+
 .container {
 	text-align: center;
   	position: absolute;
-  	font-size: 30px;
   	color: teal;
   	margin-top: 100px;
   	width: inherit;
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
 }
 
-h1 {
-	font-size: 100px;
+.container:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
 }
+
+
