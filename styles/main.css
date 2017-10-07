@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+
+.container {
+	text-align: center;
+  	position: absolute;
+  	font-size: 30px;
+  	color: teal;
+  	margin-top: 100px;
+  	width: inherit;
+}
+
+h1 {
+	font-size: 100px;
+}
