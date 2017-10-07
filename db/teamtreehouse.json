@@ -1,0 +1,221 @@
+{
+	"name": "robert shock",
+	"profile_name": "robertshock",
+	"profile_url": "https://teamtreehouse.com/robertshock",
+	"gravatar_url": "https://secure.gravatar.com/avatar/26568cc28134331b4fbd453fe22f2ae1?s=400\u0026d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-ea7cf6abde4eec089a4e03cc925d0e893e428b2b6971b12405a9b118c837eaa2.png\u0026r=pg",
+	"gravatar_hash": "26568cc28134331b4fbd453fe22f2ae1",
+	"badges": [{
+		"id": 49,
+		"name": "Newbie",
+		"url": "https://teamtreehouse.com/robertshock",
+		"icon_url": "https://achievement-images.teamtreehouse.com/Generic_Newbie.png",
+		"earned_date": "2017-06-05T18:48:17.000Z",
+		"courses": []
+	}, {
+		"id": 5192,
+		"name": "Computer Basics ",
+		"url": "https://teamtreehouse.com/library/computer-basics/computer-basics",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_computerbasics_stage1.png",
+		"earned_date": "2017-06-05T19:07:06.000Z",
+		"courses": [{
+			"title": "Computer Basics",
+			"url": "https://teamtreehouse.com/library/computer-basics",
+			"badge_count": 1
+		}, {
+			"title": "Computer Basics ",
+			"url": "https://teamtreehouse.com/library/computer-basics/computer-basics",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 5202,
+		"name": "Computer Languages ",
+		"url": "https://teamtreehouse.com/library/computer-basics/computer-languages",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_computerbasics_stage2.png",
+		"earned_date": "2017-06-05T19:40:02.000Z",
+		"courses": [{
+			"title": "Computer Basics",
+			"url": "https://teamtreehouse.com/library/computer-basics",
+			"badge_count": 1
+		}, {
+			"title": "Computer Languages ",
+			"url": "https://teamtreehouse.com/library/computer-basics/computer-languages",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 6632,
+		"name": "The Internet",
+		"url": "https://teamtreehouse.com/library/how-the-internet-works/the-internet",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges-internet-stage1.png",
+		"earned_date": "2017-06-05T20:20:47.000Z",
+		"courses": [{
+			"title": "How the Internet Works",
+			"url": "https://teamtreehouse.com/library/how-the-internet-works",
+			"badge_count": 1
+		}, {
+			"title": "The Internet",
+			"url": "https://teamtreehouse.com/library/how-the-internet-works/the-internet",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 912,
+		"name": "Beginning HTML and CSS",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/beginning-html-and-css",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_html_howtomakeawebsite_stage01.png",
+		"earned_date": "2017-06-18T20:42:22.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "Beginning HTML and CSS",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/beginning-html-and-css",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 922,
+		"name": "HTML First",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/html-first",
+		"icon_url": "https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png",
+		"earned_date": "2017-06-18T21:25:03.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "HTML First",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/html-first",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 932,
+		"name": "Creating HTML Content",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/creating-html-content",
+		"icon_url": "https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage03.png",
+		"earned_date": "2017-06-29T18:50:18.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "Creating HTML Content",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/creating-html-content",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 942,
+		"name": "CSS: Cascading Style Sheets",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/css-cascading-style-sheets",
+		"icon_url": "https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage04.png",
+		"earned_date": "2017-06-29T21:34:34.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "CSS: Cascading Style Sheets",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/css-cascading-style-sheets",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 952,
+		"name": "Customizing Colors and Fonts",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/customizing-colors-and-fonts",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_html_howtomakeawebsite_stage05.png",
+		"earned_date": "2017-06-30T16:51:15.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "Customizing Colors and Fonts",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/customizing-colors-and-fonts",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 962,
+		"name": "Styling Web Pages and Navigation",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/styling-web-pages-and-navigation",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_html_howtomakeawebsite_stage06.png",
+		"earned_date": "2017-06-30T21:57:25.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "Styling Web Pages and Navigation",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/styling-web-pages-and-navigation",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 972,
+		"name": "Adding Pages to a Website",
+		"url": "https://teamtreehouse.com/library/how-to-make-a-website/adding-pages-to-a-website",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_html_howtomakeawebsite_stage07.png",
+		"earned_date": "2017-07-06T17:24:46.000Z",
+		"courses": [{
+			"title": "How to Make a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website",
+			"badge_count": 1
+		}, {
+			"title": "Adding Pages to a Website",
+			"url": "https://teamtreehouse.com/library/how-to-make-a-website/adding-pages-to-a-website",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 2122,
+		"name": "Introducing JavaScript",
+		"url": "https://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage1.png",
+		"earned_date": "2017-07-07T22:50:06.000Z",
+		"courses": [{
+			"title": "JavaScript Basics",
+			"url": "https://teamtreehouse.com/library/javascript-basics",
+			"badge_count": 1
+		}, {
+			"title": "Introducing JavaScript",
+			"url": "https://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+			"badge_count": 1
+		}]
+	}, {
+		"id": 2132,
+		"name": "JavaScript Variables",
+		"url": "https://teamtreehouse.com/library/javascript-basics/storing-and-tracking-information-with-variables",
+		"icon_url": "https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage2.png",
+		"earned_date": "2017-07-08T21:08:35.000Z",
+		"courses": [{
+			"title": "JavaScript Basics",
+			"url": "https://teamtreehouse.com/library/javascript-basics",
+			"badge_count": 1
+		}, {
+			"title": "Storing and Tracking Information with Variables",
+			"url": "https://teamtreehouse.com/library/javascript-basics/storing-and-tracking-information-with-variables",
+			"badge_count": 1
+		}]
+	}],
+	"points": {
+		"total": 1140,
+		"HTML": 371,
+		"CSS": 120,
+		"Design": 0,
+		"JavaScript": 286,
+		"Ruby": 0,
+		"PHP": 0,
+		"WordPress": 0,
+		"iOS": 0,
+		"Android": 0,
+		"Development Tools": 0,
+		"Business": 0,
+		"Python": 0,
+		"Java": 0,
+		"Digital Literacy": 331,
+		"Game Development": 0,
+		"C#": 0,
+		"Databases": 0,
+		"Virtual Reality": 0,
+		"Data Analysis": 0,
+		"APIs": 0,
+		"Security": 0,
+		"Go": 0,
+		"Quality Assurance": 0
+	}
+}
